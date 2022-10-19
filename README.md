@@ -12,3 +12,8 @@ Realizar una app usando la siguiente API: https://rickandmortyapi.com/. Esta APP
 - Debera contener al menos un elemento de animacion
 - Diseño Libre.
 
+## Herramientas Utilizadas
+
+- Node JS
+- WebPack
+- Redux
