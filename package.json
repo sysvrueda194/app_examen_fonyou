@@ -32,5 +32,7 @@
     "xml-loader": "^1.2.1",
     "yamljs": "^0.3.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
 }

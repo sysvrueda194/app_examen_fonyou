@@ -14,7 +14,7 @@ Realizar una app usando la siguiente API: https://rickandmortyapi.com/. Esta APP
 
 ## Herramientas Utilizadas
 
-- Node JS
-- WebPack
+- Node JS (Como administrador de paquetes)
+- WebPack (como empaquetador de modulos)
 - CSS
 - Redux (pendiente implementacion)
