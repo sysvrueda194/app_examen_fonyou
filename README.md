@@ -16,4 +16,5 @@ Realizar una app usando la siguiente API: https://rickandmortyapi.com/. Esta APP
 
 - Node JS
 - WebPack
-- Redux
+- CSS
+- Redux (pendiente implementacion)
